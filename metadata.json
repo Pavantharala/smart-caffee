@@ -1,0 +1,6 @@
+{
+  "name": "Smart Café",
+  "description": "Smart Café ordering & engagement platform with parallel food prep, live table queue, Order-ID lucky draw, and waiting lounge games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
